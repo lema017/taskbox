@@ -97,7 +97,7 @@ If you encounter an issue with the template, we encourage you to open an issue i
 
 
 
- npm run storybook
+npm run storybook
 npm run test-storybook -- --url http://localhost:6007/ -- --watchAll
-
- npx playwright install     
+npx playwright install     
+npx chromatic --project-token=chpt_d21e2a732c86e3c
